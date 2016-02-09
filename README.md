@@ -1,2 +1,2 @@
 # deanstestbuild
-test buil
+test build
